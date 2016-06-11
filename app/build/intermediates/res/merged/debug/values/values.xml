@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="delay">
+       	<item>2 seconds</item>
+    	<item>5 seconds</item>
+    	<item>10 seconds</item>
+    </string-array>
+    <string-array name="delay_values">
+       	<item>2</item>
+    	<item>5</item>
+    	<item>10</item>
+    </string-array>
+    <string name="app_name">Auto Answer</string>
+    <string name="delay">Delay Before Answer</string>
+    <string name="enabled">Enable</string>
+    <string name="no_second_call">Don\'t Answer if In Call</string>
+    <string name="notification_text">Select to configure or disable</string>
+    <string name="notification_title">Auto Answer enabled</string>
+</resources>

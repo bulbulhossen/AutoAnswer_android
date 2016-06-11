@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="22"
+    density="hdpi"
+    format="7"
+    timestamp="3667277804833"
+    token="7650462155710719459" >
+
+    <task
+        name="javac"
+        duration="371" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="43" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/home/bulbulhossen/Downloads/AutoAnswer/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="3667277804833" >
+        <artifact
+            location="/home/bulbulhossen/Downloads/AutoAnswer/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

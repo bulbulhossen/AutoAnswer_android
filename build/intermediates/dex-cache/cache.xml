@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bulbulhossen/Downloads/AutoAnswer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0aa97f8b5af07fae00ba29855a7262c377ea960b">
+        <dex dex="/home/bulbulhossen/Downloads/AutoAnswer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cf16654bb75d16ffbf357ff3f9edb2e9260f72b7/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Downloads/AutoAnswer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="31cbf85444339366a14fc0a0947c5c6a557f664d">
+        <dex dex="/home/bulbulhossen/Downloads/AutoAnswer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_64d242c43cd86ee3f59e04647d0f228e6e8d2c6b/classes.dex" />
+    </item>
+    <item
+        jar="/home/bulbulhossen/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/bulbulhossen/Downloads/AutoAnswer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_b2a335000612039ee4695113d26f5c237cac09ed/classes.dex" />
+    </item>
+
+</items>
